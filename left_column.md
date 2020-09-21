@@ -28,19 +28,19 @@ exercises.
 **Day 1 (September 21, Monday)**
 - 9:00 - 9:30 
   (_Mats Bentsen, NORCE_) \
-  [Introductions to the development of NorESM2](https://github.com/NorESMhub/INES_workshop_2020/blob/gh-pages/files/Bentsen_NorESM_user_workshop_20200921.pdf)
+  [Introductions to the development of NorESM2]({{ site.baseurl }}/files/Bentsen_NorESM_user_workshop_20200921.pdf)
 - 9:30 - 10:15
   (_Dirk Olive and Ada Gjermundsen, MET_) \
-  Presentation on new NorESM e-resources.([Part1, code](https://github.com/NorESMhub/INES_workshop_2020/blob/gh-pages/files/eNorESMpart1.v1.0_Dirk_Olive.pdf); [Part2, documentation](https://github.com/NorESMhub/INES_workshop_2020/blob/gh-pages/files/NorES2_documentation_Ada_Gjermundsen.pdf))
+  Presentation on new NorESM e-resources.([Part1, code]({{ site.baseurl}}/files/Olive_eNorESMpart1.v1.0.pdf); [Part2, documentation]({{ site.baseurl }}/files/Gjermundsen_NorES2_documentation.pdf))
 - 10:15 - 10:30 \
   Coffee break  
 - 10:30 - 12:00
   (_Alok Gupta, NORCE_) \
-  [Workflow on running NorESM2.](https://github.com/NorESMhub/INES_workshop_2020/blob/gh-pages/files/workflow.pdf)
+  [Workflow on running NorESM2.]({{ site.baseurl }}/files/Gupta_workflow.pdf)
 - 12:00 - 13:00
   Lunch break
 - 13:00 - 15:30
-  [Exercise 1.](https://github.com/NorESMhub/INES_workshop_2020/blob/gh-pages/files/exercise1.pdf)
+  [Exercise 1.]({{ site.baseurl }}/files/Gupta_exercise1.pdf)
   (Helpers)
 
 **Day 2 (September 22, Tuesday)**
