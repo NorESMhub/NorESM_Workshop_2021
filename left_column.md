@@ -56,7 +56,7 @@ exercises.
 - 14:00 - 14:15
   Break
 - 14:15 - 15:30
-  Exercise 3.(#)
+  [Exercise 3](https://nordicesmhub.github.io/noresmdiagnostics/05-exercise1)
   (Helpers)
 
 **Day 3 (September 23, Wednesday)**
