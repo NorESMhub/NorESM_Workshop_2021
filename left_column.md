@@ -52,7 +52,7 @@ exercises.
 
 - 13:00 - 14:00
   (_Yanchun He, NERSC_) \
-  NorESM output and post-processing.(#)
+  [NorESM output and post-processing](https://nordicesmhub.github.io/noresmdiagnostics)
 - 14:00 - 14:15
   Break
 - 14:15 - 15:30
