@@ -61,7 +61,7 @@ exercises.
 
 **Day 3 (September 23, Wednesday)**
 - 9:00 - 10:15
-  Exercise 4.(#)
+  [Exercise 4](https://nordicesmhub.github.io/noresmdiagnostics/07-exercise2/)
   (Helpers)
 - 10:15 - 10:30
   Coffee break
