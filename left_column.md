@@ -68,7 +68,8 @@ exercises.
 - 10:30 - 12:00 (_Tomask Torsvik, UiB; Ada Gjermundsen, MET_)\
   Presentation and discussion on how to contribute to NorESM (#)
     * Part 1: Contribution to code (10:30-11:30)
-    * Part 2: Contribution to documentation (11:30-12:00)
+        - [ESMValTool intro]({{ site.baseurl }}/files/Torsvik_esmvaltool.pdf);[Contribution to code]({{ site.baseurl }}/files/Torsvik_gitcollaborate.pdf); [Porting and forking]({{ site.baseurl }}/files/Torsvik_porting.pdf)
+    * Part 2: [Contribution to documentation]({{ site.baseurl }}/files/Gjermundsen_contribution_documentation.pdf) (11:30-12:00)
 
 - 12:00 - 13:00
   Lunch break
