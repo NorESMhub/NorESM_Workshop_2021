@@ -67,8 +67,8 @@ exercises.
   Coffee break
 - 10:30 - 12:00 (_Tomask Torsvik, UiB; Ada Gjermundsen, MET_)\
   Presentation and discussion on how to contribute to NorESM (#)
-    * Part 1: Contribution to code (10:30-11:15)
-    * Part 2: Contribution to documentation (11:15-12:00)
+    * Part 1: Contribution to code (10:30-11:30)
+    * Part 2: Contribution to documentation (11:30-12:00)
 
 - 12:00 - 13:00
   Lunch break
@@ -85,3 +85,17 @@ CESM Status and Current Infrastructure Efforts
 
 - 14:10 - 14:40 (_Sylvie Joussaume, IPSL/LSCE, France_) \
 IS-ENES3 and French infrastructures
+
+- 14:40 - 15:00 Break (optional : yotribe room)
+
+- 15:00 - 15:30 (Ralf Döscher, SMHI, Sweden) \
+Regional convection-permitting climate modelling and use cases
+
+- 15:30 - 16:00 (Anne Fouilloux, UiO) \
+NICEST2 and EOSC-Nordic
+
+- 16:00 - 16:30 (Michael Schulz, MET Norway) \
+Closing of the general session with INES future perspectives
+
+- 16:30 - 17:30 \
+Virtual icebreaker event (yotribe.com; link will be added later)
