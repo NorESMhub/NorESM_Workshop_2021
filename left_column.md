@@ -10,7 +10,7 @@
 -->
 <a class="btn btn-danger disabled" href="#" data-mode="1" target="_blank">Registration is closed</a> \
 (26 participants registered, 18/09/2020)\
-[Click here]({{ site.baseurl }}/participants/) to see the the list of groups for the exercise sessions.
+[Click here]({{ site.baseurl }}/participants.html) to see the the list of groups for the exercise sessions.
 
 ### Format
 
@@ -40,12 +40,12 @@ exercises.
 - 12:00 - 13:00
   Lunch break
 - 13:00 - 15:30
-  [Exercise 1.]({{ site.baseurl }}/files/Gupta_exercise1.pdf)
+  [Exercise 1.]({{ site.baseurl }}/files/Gupta_exercise1n2.pdf)
   (Helpers)
 
 **Day 2 (September 22, Tuesday)**
 - 9:00 - 12:00
-  Exercise 2.(#)
+  [Exercise 2.]({{ site.baseurl }}/files/Gupta_exercise1n2.pdf)
   (Helpers)
 - 12:00 - 13:00
   Lunch break
@@ -66,9 +66,8 @@ exercises.
 - 10:15 - 10:30
   Coffee break
 - 10:30 - 12:00 (_Tomask Torsvik, UiB; Ada Gjermundsen, MET_)\
-  Presentation and discussion on how to contribute to NorESM (#)
-    * Part 1: Contribution to code (10:30-11:30)
-        - [ESMValTool intro]({{ site.baseurl }}/files/Torsvik_esmvaltool.pdf);[Contribution to code]({{ site.baseurl }}/files/Torsvik_gitcollaborate.pdf); [Porting and forking]({{ site.baseurl }}/files/Torsvik_porting.pdf)
+  Presentation and discussion on how to contribute to NorESM
+    * Part 1: Contribution to code: [github]({{ site.baseurl }}/files/Torsvik_gitcollaborate.pdf); [workflow]({{ site.baseurl }}/files/Torsvik_porting.pdf); [other]({{ site.baseurl }}/files/Torsvik_esmvaltool.pdf) (10:30-11:30)
     * Part 2: [Contribution to documentation]({{ site.baseurl }}/files/Gjermundsen_contribution_documentation.pdf) (11:30-12:00)
 
 - 12:00 - 13:00

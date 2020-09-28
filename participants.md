@@ -1,5 +1,5 @@
 ---
-permalink: /participants/
+permalink: /participants
 ---
 
 ### Participants
