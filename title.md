@@ -1,4 +1,4 @@
-# NorESM User Workshop 2020
+# NorESM User Workshop 2021
 
 --- An introductory course on how to run, diagnose and contribute to [NorESM](https://www.noresm.org)
 

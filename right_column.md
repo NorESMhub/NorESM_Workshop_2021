@@ -1,68 +1,61 @@
-### Who the course is for
+### Schedule
+(<mark>The training materials will be uploaded before/after lectures. </mark>)
 
-Ph.D student, postdocs and scientists who are interested in executing model simulations and learning more about technical aspects around it.
+**Day 1 (September 21, Monday)**
+- 10:00 - 10:30 
+  (_Mats Bentsen, NORCE_) \
+  Introductions to NorESM and recent developments
+- 10:30 - 10:45 \
+  Coffee break  
+- 10:45 - 11:30
+  (_Dirk Olivé and Ada Gjermundsen, MET_) \
+  Presentation on new NorESM e-resources.
+- 11:30 - 13:00
+  (_Ada G, MET/Tomas Torsvik, UiB_) \
+  Hands-on session: download code and get familiar with NorESM; configuration and submit jobs
+- 13:00 - 14:00
+  Lunch
+- 14:00 - 17:00
+  (_Ada G, MET/Tomas Torsvik, UiB_) \
+  Hands-on session: advanced settings:- SourceMods, namelist, Debug, branch and Hybrid run, pecount (coffee break: 15:30-16:00)
 
-We can accept a maximum of 30 students based on their knowledge of using HPC machines.
+**Day 2 (September 22, Tuesday)**
+- 9:00 - 12:00
+  (_Jean Iaquinta, UiO_) \
+  Running NorESM in a container (coffee break: 10:15-10:45)
+- 12:00 - 13:00
+  Talks on the features of BLOM /recent developments/future plan
+- 13:00 - 14:00
+  Lunch
+- 14:00 - 15:30
+  Meeting with experts (without presentations) and discuss solutions to the problems for your research
+- 15:30 - 16:00
+  Coffee break
+- 16:00 - 17:00
+  More hands-on/troubleshooting for running NorESM
 
-### What we will not teach
+**Day 3 (September 23, Wednesday)**
+- 09:00 - 11:30
+  (_Yanchun He, NERSC_) \
+  NorESM output and post-processing
 
-This is not a course for advanced NorESM users.
+- 11:30 - 13:00
+  Lunch
 
-### Course goals
+---
+Joint session with [INES](https://www.ines.noresm.org) annual meeting (<mark>Non-compulsory to attend. </mark>)
 
-The aim of this course is to demonstrate to the workshop
-participants on the workflow to run the NorESM2 and diagnose its output
-with the online documentations.
+- 13:00 - 13:30 (_Mats Bentsen, NORCE_)\
+Welcome and introduction
 
-Also introduce the best practices and tools to contribute the development of documentation and code of NorESM
+- 13:30 - 14:10 (_Mariana Vertenstein, UCAR/NCAR, USA_) \
+CESM Status and Current Infrastructure Efforts
 
-<!--
-### Prerequisites
+- 14:10 - 14:40 (_anny Adloff, NCAS, University of Reading_) \
+From climate models to informing policy decisions: the end-to-end importance of a sustained research infrastructure
 
-- You should be able to navigate the file tree in a terminal session and edit
-  text files in the terminal.
-  [This Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html)
-  ([video](https://youtu.be/56p6xX0aToI))
-  contains the essentials.
-- Basics in one or more programming languages.
-- You will need to bring a laptop.
-- If this is an in-person workshop, it is good if you have access to Eduroam.
-- You need to install some software. Please follow links in the schedule.
-- It is useful if you have a basic idea of how Git works. We will start from
-  the basics, but please go through
-  [this Git-refresher material](https://coderefinery.github.io/git-refresher/)
-  for a basic overview and important configuration steps.
--->
+- 14:40 - 15:10 (_Ralf Döscher, SMHI/Rossby Centre, Sweden_) \
+Developments at SMHI/Rossby Centre on climate modelling from global to km scale
 
-### **Software requirements**
-
-<mark>Please get familiar with the following softwares.</mark>
-
-- Linux Shell: Bash or Csh, etc
-    * You should be able to navigate the file tree in a terminal session and edit text files in the terminal.
-    * This [Linux shell crash course](https://scicomp.aalto.fi/scicomp/shell.html) ([video](https://youtu.be/56p6xX0aToI)) contains the essentials.
-- [Editor](https://coderefinery.github.io/installation/editors/): (chose one of the following)
-    * [Nano](https://www.nano-editor.org/dist/v2.2/nano.html): Easy to start with, but limited functionality
-    * [Vim](https://www.openvim.com/): Very capable editor, requires some effort to get started
-- Source version control
-    * [Git](https://git-scm.com) is version control tool for source code and is already installed in the HPC server during the workshop
-    * It is useful if you have a basic idea of how Git works, but please go through [this Git-refresher material](https://coderefinery.github.io/git-refresher/) for a basic overview and important configuration steps.
--   * [Github](https://www.github.com) is for collaborative work for software development and hosts NorESM sources.
-- Meeting softwares
-    * [Zoom](https://zoom.us/) will be used as the video meeting software for the workshop. <mark> You have to signed in to be able to connect to this Zoom meeting </mark>
-    * [HackMD](https://hackmd.io) will be used to write questions and answers. Please register a user account at HackMD before the workshop.
-
-### Helpers
-- Tomas Torsvik
-- Jerry Tjiputra
-- Aleksi Nummelin
-- Ada Gjermundsen
-
-### Organizers
-- Mats Bentsen
-- Michael Schulz
-- Jørund Strømsøe
-- Alok Gupta
-- Jean Iaquinta
-- Yanchun He
-
+- 15:10 - 15:30 (_Maria Francesca Iozzi, Sigma2_) \
+Sigma2 status and roadmap (TBC)
