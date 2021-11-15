@@ -12,7 +12,7 @@
   Presentation on new NorESM e-resources.
 - 11:30 - 13:00
   (_Ada G, MET/Tomas Torsvik, UiB_) \
-  Hands-on session: download code and get familiar with NorESM; configuration and submit jobs
+  [Hands-on session: download code and get familiar with NorESM; configuration and submit jobs]({{ site.baseurl }}/files/part3_Running_NorESM.pdf)
 - 13:00 - 14:00
   Lunch
 - 14:00 - 17:00
