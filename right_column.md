@@ -4,20 +4,22 @@
 **Day 1 (September 21, Monday)**
 - 10:00 - 10:30 
   (_Mats Bentsen, NORCE_) \
-  Introductions to NorESM and recent developments
+  [Introductions to NorESM and recent developments]({{ site.baseurl}}/files/Bentsen_NorESM_user_workshop_20211115.pdf)
 - 10:30 - 10:45 \
   Coffee break  
 - 10:45 - 11:30
   (_Dirk Olivé and Ada Gjermundsen, MET_) \
-  Presentation on new NorESM e-resources: [code and github]({{ site.baseurl}}/files/part2a_eNorESMpart1_presentation_nopause.v1.0.pdf), documentation
+  Presentation on new NorESM e-resources: [code and github]({{ site.baseurl}}/files/eNorESMpart1_presentation_nopause.v1.0.pdf), [documentation]({{ site.baseurl}}/files/NorESM2_e-resources_2021.pdf)
 - 11:30 - 13:00
   (_Ada G, MET/Tomas Torsvik, UiB_) \
-  [Hands-on session: download code and get familiar with NorESM; configuration and submit jobs]({{ site.baseurl }}/files/part3_Running_NorESM.pdf)
+  [Hands-on session: download code and get familiar with NorESM; configuration and submit jobs]({{ site.baseurl }}/files/NorESM_user_workshop_2021.pdf)
 - 13:00 - 14:00
   Lunch
 - 14:00 - 17:00
   (_Ada G, MET/Tomas Torsvik, UiB_) \
-  Hands-on session: advanced settings:- SourceMods, namelist, Debug, branch and Hybrid run, pecount (coffee break: 15:30-16:00)
+  Hands-on session: advanced settings:- SourceMods, namelist, Debug, branch and Hybrid run, pecount. \
+  (from page 22 of [the previous one]({{ site.baseurl }}/files/NorESM_user_workshop_2021.pdf))\
+  (coffee break: 15:30-16:00)
 
 **Day 2 (September 22, Tuesday)**
 - 9:00 - 12:00
