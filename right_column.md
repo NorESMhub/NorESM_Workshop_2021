@@ -9,7 +9,7 @@
   Coffee break  
 - 10:45 - 11:30
   (_Dirk Olivé and Ada Gjermundsen, MET_) \
-  Presentation on new NorESM e-resources.
+  Presentation on new NorESM e-resources: [code and github]({{ site.baseurl}}/files/part2a_eNorESMpart1_presentation_nopause.v1.0.pdf), documentation
 - 11:30 - 13:00
   (_Ada G, MET/Tomas Torsvik, UiB_) \
   [Hands-on session: download code and get familiar with NorESM; configuration and submit jobs]({{ site.baseurl }}/files/part3_Running_NorESM.pdf)
