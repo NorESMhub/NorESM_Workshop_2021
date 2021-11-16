@@ -5,7 +5,7 @@ The workshop will consist of lectures on simulating climate with the NorESM2 mod
 
 Please got the webpage of the workshop:
 
-https://noresmhub.github.io/INES_workshop_2021
+https://noresmhub.github.io/NorESM_Workshop_2021/
 
 ## Credit
 This workshop webpage is created from the
