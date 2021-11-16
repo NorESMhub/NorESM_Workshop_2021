@@ -24,7 +24,8 @@
 **Day 2 (September 22, Tuesday)**
 - 9:00 - 12:00
   (_Jean Iaquinta, UiO_) \
-  Running NorESM in a container (coffee break: 10:15-10:45)
+  [Running NorESM in a container](https://nordicesmhub.github.io/NorESM_user_workshop_2021) \
+  (coffee break: 10:15-10:45)
 - 12:00 - 13:00
   Talks on the features of BLOM /recent developments/future plan
 - 13:00 - 14:00
