@@ -40,7 +40,7 @@
 **Day 3 (September 23, Wednesday)**
 - 09:00 - 11:30
   (_Yanchun He, NERSC_) \
-  NorESM output and post-processing
+  [NorESM output and post-processing](https://nordicesmhub.github.io/noresmdiagnostics)
 
 - 11:30 - 13:00
   Lunch
