@@ -39,6 +39,8 @@ Ph.D student, postdocs and scientists who are interested in executing model simu
 ### Organizers
 - Yanchun He
 - Alok Gupta
+- Tomas Torsvik
+- Ada Gjermundsen
 - Mats Bentsen
 - Michael Schulz
 - Jørund Strømsøe
